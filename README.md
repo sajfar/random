@@ -1,2 +1,2 @@
 # random
-Random things I've created - uploaded for reference. 
+Random things I've created that may or may not be useful later. 
