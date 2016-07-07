@@ -120,7 +120,7 @@ else
                 [Nn]* ) exit;;
                 * ) echo "Please answer [y]es or [n]o. ";;
             esac
-    done
+        done
 fi
 
 rm -f /etc/cron.daily/tripwire-check
@@ -134,3 +134,4 @@ while true; do
                 [Nn]* ) exit;;
                 * ) echo "Please answer [y]es or [n]o. ";;
         esac
+done
